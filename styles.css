@@ -1,0 +1,44 @@
+#main {
+    background-color: #eeeeee;
+    border-radius: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 30px 0 30px 0;
+    padding: 20px 0 20px 0;
+    text-align: center;
+}
+#title {
+    color: #333333;
+    font-size: 40px;
+}
+#img-div {
+    background-color: #ffffff;
+    margin: 1vw;
+    padding: 10px;
+}
+#image {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+    height: auto;
+    max-width: 100%;
+}
+#img-caption {
+    margin: 10px;
+}
+#tribute-info {
+    line-height: 2;
+    margin: auto;
+    width: 60vmin;
+}
+.division {
+    border-bottom: 1px solid #00000037;
+    text-align: center;
+}
+blockquote {
+    margin-right: 0vw;
+    text-align: left;
+}
+ul {
+    display: grid;
+    gap: 10px;
+    text-align: justify;
+}
